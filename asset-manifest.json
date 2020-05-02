@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/Vibhanshu3/react-rating-app/static/js/main.8ec711d6.chunk.js",
+    "main.js.map": "/Vibhanshu3/react-rating-app/static/js/main.8ec711d6.chunk.js.map",
+    "runtime-main.js": "/Vibhanshu3/react-rating-app/static/js/runtime-main.0b859690.js",
+    "runtime-main.js.map": "/Vibhanshu3/react-rating-app/static/js/runtime-main.0b859690.js.map",
+    "static/css/2.57d3f692.chunk.css": "/Vibhanshu3/react-rating-app/static/css/2.57d3f692.chunk.css",
+    "static/js/2.d1762122.chunk.js": "/Vibhanshu3/react-rating-app/static/js/2.d1762122.chunk.js",
+    "static/js/2.d1762122.chunk.js.map": "/Vibhanshu3/react-rating-app/static/js/2.d1762122.chunk.js.map",
+    "index.html": "/Vibhanshu3/react-rating-app/index.html",
+    "precache-manifest.c72eb9ec749bf821e792fefc81a47eec.js": "/Vibhanshu3/react-rating-app/precache-manifest.c72eb9ec749bf821e792fefc81a47eec.js",
+    "service-worker.js": "/Vibhanshu3/react-rating-app/service-worker.js",
+    "static/css/2.57d3f692.chunk.css.map": "/Vibhanshu3/react-rating-app/static/css/2.57d3f692.chunk.css.map",
+    "static/media/font-awesome.css": "/Vibhanshu3/react-rating-app/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b859690.js",
+    "static/css/2.57d3f692.chunk.css",
+    "static/js/2.d1762122.chunk.js",
+    "static/js/main.8ec711d6.chunk.js"
+  ]
+}
