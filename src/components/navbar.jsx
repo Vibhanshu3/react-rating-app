@@ -8,16 +8,16 @@ const NavBar = () => {
 
                 <ul className="navbar-nav mr-auto">
                     <li className="nav-item">
-                        <Link className="nav-link" to="/">Movies</Link>
+                        <Link className="nav-link" to="/react-rating-app">Movies</Link>
                     </li>
                     <li className="nav-item">
-                        <Link className="nav-link" to="/customer">Customer</Link>
+                        <Link className="nav-link" to="/react-rating-app/customer">Customer</Link>
                     </li>
                     <li className="nav-item">
-                        <Link className="nav-link" to="/rental">Rental</Link>
+                        <Link className="nav-link" to="/react-rating-app/rental">Rental</Link>
                     </li>
                     <li className="nav-item">
-                        <Link className="nav-link" to="/login">Login</Link>
+                        <Link className="nav-link" to="/react-rating-app/login">Login</Link>
                     </li>
                 </ul>
             </div>

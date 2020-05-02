@@ -15,11 +15,11 @@ function App() {
       <div>
         <NavBar></NavBar>
         <Switch>
-          <Route path="/" exact component={Movies}></Route>
-          <Route path="/customer" exact component={Customer}></Route>
-          <Route path="/rental" exact component={Rental}></Route>
-          <Route path="/login" exact component={Login}></Route>
-          <Redirect from="/xyz" to="/"></Redirect>
+          <Route path="/react-rating-app" exact component={Movies}></Route>
+          <Route path="/react-rating-app/customer" exact component={Customer}></Route>
+          <Route path="/react-rating-app/rental" exact component={Rental}></Route>
+          <Route path="/react-rating-app/login" exact component={Login}></Route>
+          <Redirect from="/react-rating-app/xyz" to="/"></Redirect>
           <Route component={NotFound}></Route>
 
         </Switch>
